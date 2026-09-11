@@ -616,7 +616,7 @@ body {
 
     .space {
         margin-top: 30px;
-        width: 450px;
+        width: 90%;
         height: 250px;
         background-color: rgba(29, 35, 44, 1);
         margin-left: 20px;
@@ -626,8 +626,8 @@ body {
     }
 
     .space img {
-        width: 250px;
-        height: 150px;
+        width: 50%;
+        height: auto;
         margin-top: 10px;
         margin-left: 20px;
     }
@@ -676,7 +676,8 @@ body {
         font-size: 10px;
         margin: 0 auto;
         margin-top: 10px;
-        width: 400px;
+        width: 80%;
+        box-sizing: border-box;
         padding: 15px;
     }
 
